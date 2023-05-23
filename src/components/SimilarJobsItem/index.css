@@ -1,0 +1,21 @@
+@media (min-width: 900px) {
+  .similar-job-list-card {
+    width: 20%;
+    flex-grow: 1;
+    background-color: #202020;
+
+    padding: 30px;
+    margin: 30px;
+    border-radius: 15px;
+  }
+}
+
+@media (max-width: 900px) {
+  .similar-job-list-card {
+    background-color: #202020;
+    width: 100%;
+    padding: 30px;
+    margin: 30px;
+    border-radius: 15px;
+  }
+}

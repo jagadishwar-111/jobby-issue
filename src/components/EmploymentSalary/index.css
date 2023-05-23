@@ -1,0 +1,43 @@
+.employment-salary-card {
+}
+
+.list-heading-element {
+  font-size: 25px;
+  font-family: roboto;
+  color: #ffffff;
+}
+
+.line {
+  color: #7e858e;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  height: 0.5px;
+}
+
+.list-container {
+  padding-left: 0px;
+}
+
+.list-item {
+  list-style-type: none;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.checkbox-element {
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+}
+
+.labels {
+  font-size: 18px;
+  font-family: roboto;
+  color: #ffffff;
+}
+
+.radio-element {
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+}
